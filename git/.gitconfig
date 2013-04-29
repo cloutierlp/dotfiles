@@ -1,0 +1,11 @@
+[core]
+  excludesfile = /Users/cloutierlp/.gitignore
+[user]
+  email = louisphilippe.cloutier@hooktstudios.com
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
