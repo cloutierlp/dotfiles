@@ -1,18 +1,35 @@
 {
-	"installed_packages":
+	"bootstrapped": true,
+	"in_process_packages":
 	[
 		"2pdf",
 		"CoffeeScript",
+		"TagWrapper"
+	],
+	"installed_packages":
+	[
+		"2pdf",
+		"Babel",
+		"CoffeeScript",
 		"Emmet",
-		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Handlebars",
 		"Hayaku - tools for writing CSS faster",
 		"HTML5",
+		"Markdown Preview",
+		"Mou Markdown App (OSX)",
 		"Package Control",
+		"Pane Resizer",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeERB",
+		"Syntax Highlighting for Sass",
 		"Tag",
 		"TagWrapper",
+		"Theme - Centurion",
+		"Theme - Flatland",
 		"Theme - Soda",
+		"Theme - Sodarized",
 		"Web Inspector"
 	]
 }
